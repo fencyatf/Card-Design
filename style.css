@@ -9,6 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .main-container {
@@ -26,8 +27,8 @@ body{
 } 
 
 .card{
-    width: 330px;
-    height: 400px;
+    width: 338px;
+    height: 430px;
     border: 1px solid gray;
     border-radius: 15px;
     background-color: white;
@@ -38,4 +39,5 @@ body{
 p{
     margin: 15px;
     color: gray;
+    font-size: 18px;
 }
